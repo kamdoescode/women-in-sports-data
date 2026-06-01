@@ -1,0 +1,2623 @@
+{
+  "channel_stats": [
+    {
+      "channel_title": "WNBA",
+      "subscribers": 504000,
+      "total_views": 254904629,
+      "video_count": 8073,
+      "league": "WNBA"
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "GbxOzoGC8Ko",
+      "title": "Best of Breanna Stewart&#39;s 2018 Season",
+      "published_at": "2018-12-06T19:00:03Z",
+      "views": 53749,
+      "likes": 627,
+      "comments": 167,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "exNF4zCrBHI",
+      "title": "Best of 2018: Jonquel Jones",
+      "published_at": "2018-12-06T18:02:19Z",
+      "views": 5731,
+      "likes": 108,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2IaIVPD09QA",
+      "title": "Best of Sue Bird&#39;s 2018 Season",
+      "published_at": "2018-12-06T17:00:00Z",
+      "views": 212931,
+      "likes": 2356,
+      "comments": 621,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "IC7TRaX9q-0",
+      "title": "Best of Brittney Griner&#39;s 2018 Season",
+      "published_at": "2018-12-06T15:40:01Z",
+      "views": 211339,
+      "likes": 1128,
+      "comments": 506,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "p7dCG6PaUWs",
+      "title": "Best of 2018: Courtney Vandersloot",
+      "published_at": "2018-11-20T22:34:39Z",
+      "views": 7548,
+      "likes": 160,
+      "comments": 18,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Di6eap6TjFI",
+      "title": "Best of 2018: Kia Nurse",
+      "published_at": "2018-11-16T17:51:04Z",
+      "views": 22667,
+      "likes": 219,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "beX_A7sWPK8",
+      "title": "Best of Chiney Ogwumike&#39;s 2018 Season",
+      "published_at": "2018-11-05T15:29:57Z",
+      "views": 29446,
+      "likes": 285,
+      "comments": 25,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wAtSxK1U3rs",
+      "title": "Best of Liz Cambage&#39;s 2018 Season",
+      "published_at": "2018-10-31T22:36:13Z",
+      "views": 262829,
+      "likes": 1976,
+      "comments": 157,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "cESRSTTo5hg",
+      "title": "Best of Diana Taurasi&#39;s 2018 Season",
+      "published_at": "2018-10-30T20:14:59Z",
+      "views": 112502,
+      "likes": 1313,
+      "comments": 119,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wEjnHItbti0",
+      "title": "Best of Nneka Ogwumike&#39;s 2018 Season",
+      "published_at": "2018-10-26T17:12:11Z",
+      "views": 27153,
+      "likes": 329,
+      "comments": 24,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "tY9JJN2gcXo",
+      "title": "Best of Maya Moore&#39;s 2018 Season",
+      "published_at": "2018-10-25T21:37:30Z",
+      "views": 152793,
+      "likes": 1430,
+      "comments": 198,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_trD5ccZxjU",
+      "title": "Best of Kayla McBride&#39;s 2018 Season",
+      "published_at": "2018-10-24T20:39:54Z",
+      "views": 14496,
+      "likes": 287,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "WmGix0CTtlU",
+      "title": "Best of 2018 Season: Tiffany Hayes",
+      "published_at": "2018-10-23T20:01:49Z",
+      "views": 9359,
+      "likes": 192,
+      "comments": 16,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "CxNNcfBviZQ",
+      "title": "Best of Diamond DeShields&#39; 2018 Season",
+      "published_at": "2018-10-22T23:01:43Z",
+      "views": 22513,
+      "likes": 332,
+      "comments": 28,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "vlHnbS0DLEM",
+      "title": "Best of 2018 Season: Kelsey Mitchell",
+      "published_at": "2018-10-22T01:34:54Z",
+      "views": 4609,
+      "likes": 80,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "shIFWbDPnuc",
+      "title": "Best of 2018 Season: Tina Charles",
+      "published_at": "2018-10-19T21:18:58Z",
+      "views": 5163,
+      "likes": 83,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ohp6ovBNk3E",
+      "title": "Best of 2018 Season: Angel McCoughtry",
+      "published_at": "2018-10-19T12:48:44Z",
+      "views": 9459,
+      "likes": 131,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "WNH2o-lWDsk",
+      "title": "Best Of Sue Bird From 2018 Finals",
+      "published_at": "2018-09-13T04:54:43Z",
+      "views": 41802,
+      "likes": 427,
+      "comments": 21,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "om9ISBnsVAk",
+      "title": "The BEST of Breanna Stewart From 2018 Finals",
+      "published_at": "2018-09-13T04:28:16Z",
+      "views": 35012,
+      "likes": 401,
+      "comments": 24,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "w9LwTd6376Y",
+      "title": "Sue Bird Records Double-Double in Finals Game 3",
+      "published_at": "2018-09-13T04:14:29Z",
+      "views": 4122,
+      "likes": 84,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "1mQXEht1Pbw",
+      "title": "Seattle Sinks 13 Triples in Finals Game 3",
+      "published_at": "2018-09-13T04:05:51Z",
+      "views": 10219,
+      "likes": 132,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "30g_hgTwCY8",
+      "title": "Alysha Clark&#39;s Best From Finals Game 3",
+      "published_at": "2018-09-13T03:07:32Z",
+      "views": 7725,
+      "likes": 109,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "QdyMj0mF0MM",
+      "title": "Natasha Howard&#39;s BEST Plays From Finals Game 3",
+      "published_at": "2018-09-13T03:01:55Z",
+      "views": 2190,
+      "likes": 45,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "pkOh1DzOils",
+      "title": "BEST of Breanna Stewart From Finals Game 3",
+      "published_at": "2018-09-13T02:41:03Z",
+      "views": 16264,
+      "likes": 129,
+      "comments": 17,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9I7EWrd9n8Y",
+      "title": "Full Game Highlights | Storm Take 2-0 Finals Lead In Nail-Biting Win",
+      "published_at": "2018-09-10T20:59:54Z",
+      "views": 3139,
+      "likes": 59,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "rC076DQNEqw",
+      "title": "2018 MVP Breanna Stewart Season Highlights",
+      "published_at": "2018-09-10T15:59:18Z",
+      "views": 10913,
+      "likes": 132,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "HGcILWSBD5E",
+      "title": "Top 5 Plays From Finals Game 2",
+      "published_at": "2018-09-09T23:46:45Z",
+      "views": 859,
+      "likes": 15,
+      "comments": 8,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ZzJiA2CYChI",
+      "title": "BEST from Rookie of the Year A&#39;ja Wilson",
+      "published_at": "2018-09-09T18:45:16Z",
+      "views": 13860,
+      "likes": 210,
+      "comments": 27,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "QRqW_f20x4Y",
+      "title": "USAB Women&#39;s National Team Overcomes 12 PT Deficit to Defeat Canada in Exhibition",
+      "published_at": "2018-09-09T01:48:39Z",
+      "views": 2235,
+      "likes": 61,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fcZ4UVEiwBo",
+      "title": "Full Game Highlights | Stewart, Loyd Combine For 45 PTS As Storm Take 1-0 Finals Lead",
+      "published_at": "2018-09-08T16:16:19Z",
+      "views": 5646,
+      "likes": 82,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DklkNTsz0Qg",
+      "title": "Tina Thompson Hall of Fame Induction Speech",
+      "published_at": "2018-09-08T01:48:45Z",
+      "views": 13158,
+      "likes": 232,
+      "comments": 27,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "RzuSoyZFrek",
+      "title": "Tina Thompson 2018 Hall of Fame Career Retrospective",
+      "published_at": "2018-09-08T01:48:43Z",
+      "views": 6844,
+      "likes": 137,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Ut2j650T7Ko",
+      "title": "Katie Smith 2018 Hall of Fame Career Retrospective",
+      "published_at": "2018-09-08T00:29:36Z",
+      "views": 6032,
+      "likes": 100,
+      "comments": 15,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "27KoJX_-JAo",
+      "title": "Katie Smith Hall of Fame Induction Speech",
+      "published_at": "2018-09-08T00:15:10Z",
+      "views": 4920,
+      "likes": 81,
+      "comments": 24,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "kOiFTiksgNg",
+      "title": "Best of Sue Bird Clutch Moments",
+      "published_at": "2018-09-06T23:07:27Z",
+      "views": 13635,
+      "likes": 289,
+      "comments": 8,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "SLskVYo7zVk",
+      "title": "Full Game Highlights | Sue Bird TAKES OVER In 4th Q As Storm Advance To Finals",
+      "published_at": "2018-09-05T18:48:05Z",
+      "views": 234254,
+      "likes": 2175,
+      "comments": 118,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "alVGYeNuhV8",
+      "title": "Full Game Highlights | Mystics Punch Their Ticket To First-Ever Finals",
+      "published_at": "2018-09-05T18:06:46Z",
+      "views": 4041,
+      "likes": 67,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "5IXmwR7ziN0",
+      "title": "Top 10 Plays from Game 5 of the Semifinals",
+      "published_at": "2018-09-05T06:40:00Z",
+      "views": 2396,
+      "likes": 37,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "BlocY7Yp9pM",
+      "title": "Best of Sue Bird in Semifinals",
+      "published_at": "2018-09-05T06:14:46Z",
+      "views": 28153,
+      "likes": 407,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0lx02W6TD4c",
+      "title": "Best Buckets From Storm&#39;s 35-Point q4 In Game 5",
+      "published_at": "2018-09-05T05:45:33Z",
+      "views": 15180,
+      "likes": 200,
+      "comments": 24,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "v8BhjmMi97s",
+      "title": "Whitcomb &amp; Clark Record 24 Key Points",
+      "published_at": "2018-09-05T05:40:43Z",
+      "views": 4026,
+      "likes": 52,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "N3PfJu48w-o",
+      "title": "Breanna Stewart Records 28 PTS in Game 5 Victory",
+      "published_at": "2018-09-05T05:36:59Z",
+      "views": 3043,
+      "likes": 39,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Bin9tiTVmAE",
+      "title": "Mystics Best Assists in Semifinals Game 5",
+      "published_at": "2018-09-05T03:15:39Z",
+      "views": 1449,
+      "likes": 34,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "e1Qg_18ycBM",
+      "title": "EDD &amp; Toliver Push Mystics to Game 5 Win",
+      "published_at": "2018-09-05T02:51:29Z",
+      "views": 5079,
+      "likes": 91,
+      "comments": 12,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "eUvQhVa0nYE",
+      "title": "Full Game Highlights | Griner Wins Game 4 Late For Mercury",
+      "published_at": "2018-09-04T22:56:50Z",
+      "views": 1990,
+      "likes": 59,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2olDffVi57s",
+      "title": "Full Game Highlights | Mystics Force Winner-Take-All Game 5 In ATL",
+      "published_at": "2018-09-04T22:56:27Z",
+      "views": 3331,
+      "likes": 42,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "R4ZK1WjhYwI",
+      "title": "Best of Diana Taurasi 13-0 Record in Elimination Games",
+      "published_at": "2018-09-03T23:32:41Z",
+      "views": 17818,
+      "likes": 263,
+      "comments": 31,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "O6SpUF9GCNg",
+      "title": "Relive The Mercury&#39;s 17-Point Comeback To Force Game 5",
+      "published_at": "2018-09-03T00:29:52Z",
+      "views": 12879,
+      "likes": 161,
+      "comments": 38,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_kvHB6Ri1k4",
+      "title": "DeWanna Bonner Notches 27 Points In Game 4 Win",
+      "published_at": "2018-09-03T00:24:32Z",
+      "views": 1489,
+      "likes": 25,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "URB21unhhqs",
+      "title": "Brittney Griner Records 29 PTS &amp; 12 REB To Even Semifinals Series",
+      "published_at": "2018-09-03T00:15:24Z",
+      "views": 4354,
+      "likes": 58,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fPX4UWhYhc4",
+      "title": "Kristi Toliver&#39;s 22 PTS Paces Mystics To Even Series",
+      "published_at": "2018-09-02T22:33:28Z",
+      "views": 2375,
+      "likes": 47,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "qfWnr5jld9Y",
+      "title": "EDD Posts Double-Double In Game 4 Win",
+      "published_at": "2018-09-02T22:30:05Z",
+      "views": 1963,
+      "likes": 57,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_Qh1X6MUAno",
+      "title": "Full Game Highlights | Mercury Protect Homecourt To Force Game 4",
+      "published_at": "2018-09-02T18:57:52Z",
+      "views": 2871,
+      "likes": 55,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_Hag7w2Kh8c",
+      "title": "Full Game Highlights | Hayes, Dream Capture Key G3 Win In D.C.",
+      "published_at": "2018-09-02T18:57:35Z",
+      "views": 643,
+      "likes": 13,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "-GPabyTa5oo",
+      "title": "Best Of Bonner, Griner &amp; Turner&#39;s Game 3",
+      "published_at": "2018-09-01T05:08:50Z",
+      "views": 5163,
+      "likes": 117,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_9Z6hJv1cXU",
+      "title": "Yvonne Turner Logs Playoffs Career-High vs. Storm",
+      "published_at": "2018-09-01T05:03:49Z",
+      "views": 2357,
+      "likes": 49,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Ox2aAB-xS5c",
+      "title": "DeWanna Bonner Leads Phoenix Past Seattle In Game 3 Win",
+      "published_at": "2018-09-01T04:53:27Z",
+      "views": 1961,
+      "likes": 32,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "bF-3hLrwTKk",
+      "title": "Tiffany Hayes Pushes Atlanta Up 2-1",
+      "published_at": "2018-09-01T03:05:15Z",
+      "views": 1208,
+      "likes": 39,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "vs9arFSu2vs",
+      "title": "Full Game Highlights | Storm Prevail In Thrilling OT Game 2",
+      "published_at": "2018-08-29T17:31:08Z",
+      "views": 1865,
+      "likes": 43,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Gfu1cFT1ev8",
+      "title": "Full Game Highlights | Dream Even Semis At One Game Apiece",
+      "published_at": "2018-08-29T17:30:50Z",
+      "views": 709,
+      "likes": 20,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "IKdktZ15gi0",
+      "title": "Top 10 Plays of Game 2 Best-Of-5 Semifinals",
+      "published_at": "2018-08-29T06:20:56Z",
+      "views": 2089,
+      "likes": 39,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "NQDYRgjLQCI",
+      "title": "Brittney Griner&#39;s BEST Buckets in Game 2",
+      "published_at": "2018-08-29T05:30:53Z",
+      "views": 3883,
+      "likes": 42,
+      "comments": 13,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DDTco2QvXM0",
+      "title": "Breanna Stewart&#39;s BEST Buckets From Game 2",
+      "published_at": "2018-08-29T05:28:18Z",
+      "views": 1520,
+      "likes": 31,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2zidi0tIoc0",
+      "title": "Diana Taurasi Q4 Buckets in Game 2",
+      "published_at": "2018-08-29T05:26:23Z",
+      "views": 10090,
+      "likes": 114,
+      "comments": 17,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Mv7b4nDrp9o",
+      "title": "Sue Bird Records 19 PTS, 6 AST to put Storm Up 2-0",
+      "published_at": "2018-08-29T05:23:50Z",
+      "views": 17046,
+      "likes": 259,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iI701E5SFX4",
+      "title": "Tiffany Hayes Notches 17 PTS, 6 AST in Game 2 Win",
+      "published_at": "2018-08-29T03:06:32Z",
+      "views": 624,
+      "likes": 22,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "kOI8um2TFnA",
+      "title": "Alex Bentley Drops 22 PTS in Game 2 Win",
+      "published_at": "2018-08-29T02:48:36Z",
+      "views": 1758,
+      "likes": 36,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2n9XAQDTqME",
+      "title": "Breland Records Franchise Record with 7 BLKS in G2",
+      "published_at": "2018-08-29T02:38:42Z",
+      "views": 632,
+      "likes": 26,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DGMq7fyV91c",
+      "title": "Full Game Highlights | MVP Stewart&#39;s 28 PTS Give Storm 1-0 Series Lead Over Mercury",
+      "published_at": "2018-08-27T16:43:40Z",
+      "views": 6945,
+      "likes": 103,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "V9dGi9-Co5c",
+      "title": "Full Game Highlights | Mystics Take Semis Game 1 In ATL",
+      "published_at": "2018-08-27T15:17:43Z",
+      "views": 1905,
+      "likes": 47,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "drrdaLaV3Xk",
+      "title": "Top 10 Plays of the Day",
+      "published_at": "2018-08-27T01:13:53Z",
+      "views": 1328,
+      "likes": 42,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2NQo14wNeV4",
+      "title": "Taurasi &amp; Bonner Game 1 Highlights",
+      "published_at": "2018-08-27T01:05:57Z",
+      "views": 1834,
+      "likes": 34,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0tTYuioYbsY",
+      "title": "Stewart, Loyd, Howard Record 20+ PTS",
+      "published_at": "2018-08-27T00:34:22Z",
+      "views": 2216,
+      "likes": 36,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "pbPSV7HePVM",
+      "title": "Breanna Stewart Game 1 Highlights",
+      "published_at": "2018-08-27T00:25:08Z",
+      "views": 4448,
+      "likes": 68,
+      "comments": 8,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0rkO-LMauQg",
+      "title": "Sue Bird Dishes 10 Assists in Game 1",
+      "published_at": "2018-08-27T00:23:04Z",
+      "views": 4310,
+      "likes": 92,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "cPCAaF1yjIQ",
+      "title": "Bentley and Williams Best Buckets vs. Mystics",
+      "published_at": "2018-08-26T22:53:38Z",
+      "views": 609,
+      "likes": 28,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "BTC_L5UHwBc",
+      "title": "EDD Propels Mystics to Game 1 Win",
+      "published_at": "2018-08-26T22:40:36Z",
+      "views": 1475,
+      "likes": 63,
+      "comments": 32,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "78Zc2e5QDMU",
+      "title": "Full Game Highlights | DT, BG, Bonner Prove To Be Too Much For Sun",
+      "published_at": "2018-08-24T16:05:37Z",
+      "views": 1848,
+      "likes": 54,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FR5MjvVbVkw",
+      "title": "Full Game Highlights | EDD, Mystics Punch Their Ticket To Semis",
+      "published_at": "2018-08-24T15:52:50Z",
+      "views": 4643,
+      "likes": 88,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "2XWYF5rfGB4",
+      "title": "Top 10 Plays Of The Night",
+      "published_at": "2018-08-24T04:51:04Z",
+      "views": 1497,
+      "likes": 56,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "UADyqMV4vQ8",
+      "title": "Mercury Trio Record 77 PTS",
+      "published_at": "2018-08-24T04:10:27Z",
+      "views": 3916,
+      "likes": 70,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "oV8xJ82WH7I",
+      "title": "Brittney Griner&#39;s 2nd Round Highlights",
+      "published_at": "2018-08-24T04:05:25Z",
+      "views": 2321,
+      "likes": 41,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FM07ogc07tw",
+      "title": "Washington Mystics Starters 2nd Round Highlights",
+      "published_at": "2018-08-24T04:02:08Z",
+      "views": 765,
+      "likes": 27,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "le5mhrcx8H8",
+      "title": "Best of Candace Parker From 2nd Round",
+      "published_at": "2018-08-24T01:26:13Z",
+      "views": 2717,
+      "likes": 64,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "uMoMfOQGbYM",
+      "title": "Full Game Highlights | Taurasi, Bonner Lead Mercury Past Wings",
+      "published_at": "2018-08-22T17:06:04Z",
+      "views": 6750,
+      "likes": 90,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "dSkmTHV6UhY",
+      "title": "Full Game Highlights | Gray Powers Sparks Over Lynx In Finals Rematch",
+      "published_at": "2018-08-22T17:05:13Z",
+      "views": 3434,
+      "likes": 63,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "m-G1LotnTBk",
+      "title": "Maya Moore and Sylvia Fowles 1st Round Highlights",
+      "published_at": "2018-08-22T05:51:36Z",
+      "views": 2853,
+      "likes": 49,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "oIqDI9prgp4",
+      "title": "Lindsay Whalen 1st Round Highlights",
+      "published_at": "2018-08-22T05:45:08Z",
+      "views": 3243,
+      "likes": 34,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "snKRrKMkhZc",
+      "title": "Riquna Williams 1st Round Highlights",
+      "published_at": "2018-08-22T05:41:48Z",
+      "views": 934,
+      "likes": 14,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "5iAqMd4xQTA",
+      "title": "Nneka Ogwumike 1st Round Highlights",
+      "published_at": "2018-08-22T05:34:38Z",
+      "views": 1022,
+      "likes": 32,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "XrispvF88DM",
+      "title": "Chelsea Gray 1st Round Highlights",
+      "published_at": "2018-08-22T05:31:02Z",
+      "views": 7405,
+      "likes": 98,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "UbcIfiqtYHc",
+      "title": "Diana Taurasi 1st Round Highlights",
+      "published_at": "2018-08-22T04:21:43Z",
+      "views": 12944,
+      "likes": 202,
+      "comments": 20,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fcrlM-pA-e4",
+      "title": "Skylar Diggins-Smith 1st Round Highlights",
+      "published_at": "2018-08-22T04:18:00Z",
+      "views": 49286,
+      "likes": 370,
+      "comments": 33,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "be4mSbpZTGk",
+      "title": "Liz Cambage 1st Round Playoff Highlights",
+      "published_at": "2018-08-22T04:13:49Z",
+      "views": 9809,
+      "likes": 110,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "8rfD-5YLTYA",
+      "title": "DeWanna Bonner 1st Round Playoff Highlights with Postgame Interview",
+      "published_at": "2018-08-22T03:32:47Z",
+      "views": 2468,
+      "likes": 41,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FUzdtCfiDS0",
+      "title": "Best of Candace Parker&#39;s Rookie Season",
+      "published_at": "2018-08-21T23:28:19Z",
+      "views": 12833,
+      "likes": 302,
+      "comments": 24,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "j5dc03BX160",
+      "title": "Best of Lynx vs. Sparks 2016-2018",
+      "published_at": "2018-08-21T23:23:10Z",
+      "views": 695,
+      "likes": 36,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "d-0JcsbV-dk",
+      "title": "Jasmine Thomas Drops 21 PTS As Connecticut Secure 4-Seed",
+      "published_at": "2018-08-20T02:39:48Z",
+      "views": 661,
+      "likes": 20,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "NMrhbiSpyhg",
+      "title": "Best of Lindsay Whalen&#39;s Career Clutch Moments",
+      "published_at": "2018-08-20T02:38:36Z",
+      "views": 18547,
+      "likes": 193,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "xBJfUMa7LN0",
+      "title": "A&#39;ja Wilson Drops 21 PTS In Final Game of Rookie Season",
+      "published_at": "2018-08-20T02:26:05Z",
+      "views": 1879,
+      "likes": 47,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "4SSiZ3g2c1I",
+      "title": "Breanna Stewart (22 PTS) Helps Storm Secure No. 1 Seed",
+      "published_at": "2018-08-18T05:50:15Z",
+      "views": 1960,
+      "likes": 65,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "cBIKDWVQzfM",
+      "title": "Liz Cambage Scores 43 Points As Wings Clinch Playoff Spot",
+      "published_at": "2018-08-18T05:47:41Z",
+      "views": 85840,
+      "likes": 654,
+      "comments": 64,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "t-5yoQnjOfg",
+      "title": "A&#39;ja Wilson, Kayla McBride Combine for 34 PTS In Aces Win",
+      "published_at": "2018-08-16T04:09:30Z",
+      "views": 2233,
+      "likes": 68,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "WXvh5psMLjQ",
+      "title": "Elena Delle Donne Drops 25 PTS In Mystics Win vs. Fever",
+      "published_at": "2018-08-16T04:08:53Z",
+      "views": 1561,
+      "likes": 44,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "p0raX1Tps4E",
+      "title": "Jonquel Jones Drops 27 To Power Sun Past Wings",
+      "published_at": "2018-08-15T03:09:53Z",
+      "views": 703,
+      "likes": 23,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Df1YMMm5Hjw",
+      "title": "Essence Carson&#39;s Top Plays This Season",
+      "published_at": "2018-08-13T22:56:23Z",
+      "views": 2385,
+      "likes": 56,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9dLnkiHqk3k",
+      "title": "DeWanna Bonner Scores Season-High 31 Points vs. Sparks",
+      "published_at": "2018-08-13T01:39:12Z",
+      "views": 4322,
+      "likes": 76,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0uolhs3ZGWY",
+      "title": "Jonquel Jones Scores 17 PTS, 15 REB Off-the-Bench vs. Sky",
+      "published_at": "2018-08-12T23:24:03Z",
+      "views": 347,
+      "likes": 18,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "aDl0nCpzHtU",
+      "title": "Renee Montgomery Sets Dream Record For 3PT FG Made In Single Season",
+      "published_at": "2018-08-12T23:23:13Z",
+      "views": 7742,
+      "likes": 144,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "XDj-y237Scs",
+      "title": "Renee Montogmery Hits EIGHT Three&#39;s Against Liberty",
+      "published_at": "2018-08-12T23:22:32Z",
+      "views": 940,
+      "likes": 43,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "pINc5L_H3JM",
+      "title": "Plum, Wilson &amp; McBride Combine For 57 Points vs. Fever",
+      "published_at": "2018-08-12T05:16:49Z",
+      "views": 10797,
+      "likes": 152,
+      "comments": 8,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "T0CTUN3FY1Y",
+      "title": "Diana Taurasi and Stephanie Talbot Combine for 28 PTS vs. Fever",
+      "published_at": "2018-08-11T04:35:54Z",
+      "views": 1582,
+      "likes": 37,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "EWumH75J0aY",
+      "title": "Maya Moore Drops HUGE 34 PTS As Lynx Win And Clinch Playoffs",
+      "published_at": "2018-08-10T04:50:50Z",
+      "views": 6065,
+      "likes": 163,
+      "comments": 15,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "YIp-DfOFIM0",
+      "title": "Jessica Breland Tallies Near Double-Double (19 PTS, 9 REB), Leads Dream to Win",
+      "published_at": "2018-08-10T04:38:52Z",
+      "views": 1015,
+      "likes": 26,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "P7vvhdSHX-o",
+      "title": "Breanna Stewart Through the Years",
+      "published_at": "2018-08-09T04:46:44Z",
+      "views": 1036,
+      "likes": 54,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "vCfZtVWudn0",
+      "title": "Chelsea Gray Scores 19 PTS in Sparks Close Win Over Liberty",
+      "published_at": "2018-08-09T04:46:21Z",
+      "views": 551,
+      "likes": 23,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "uK6YzLj0Y08",
+      "title": "Alyssa Thomas Drops Season-High 22 PTS As Sun Clinch Playoffs",
+      "published_at": "2018-08-09T04:45:56Z",
+      "views": 483,
+      "likes": 13,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "YTsE-D8d8Vo",
+      "title": "Elizabeth Williams Sets Career-High 22 PTS vs. Aces",
+      "published_at": "2018-08-08T07:45:34Z",
+      "views": 1553,
+      "likes": 21,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Cv7_VrwuuCs",
+      "title": "Kristi Toliver Notches 25 PTS vs. Mercury",
+      "published_at": "2018-08-08T07:42:23Z",
+      "views": 774,
+      "likes": 31,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ocsD2cfBBLM",
+      "title": "Brittney Griner, Diana Taurasi and DeWanna Bonner Combine For Historic 84 PTS",
+      "published_at": "2018-08-08T07:41:45Z",
+      "views": 9565,
+      "likes": 144,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "eg7c_HWaxOI",
+      "title": "Sue Bird Becomes All-Time Leader In Career Minutes Played",
+      "published_at": "2018-08-08T07:41:08Z",
+      "views": 10902,
+      "likes": 194,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "IZ0HRLAQs18",
+      "title": "Atlanta Dream Set New Franchise Record Blocks In A Game With 14 BLK",
+      "published_at": "2018-08-08T07:40:37Z",
+      "views": 870,
+      "likes": 24,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ZoK1mzgW8Tw",
+      "title": "Kelsey Plum Tallies Franchise Record 13 AST",
+      "published_at": "2018-08-08T07:39:59Z",
+      "views": 2261,
+      "likes": 58,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "v_btDRRuRQs",
+      "title": "Alex Bentley Scores 22 PTS, 8 AST Off-The-Bench vs. Aces",
+      "published_at": "2018-08-08T07:39:02Z",
+      "views": 1538,
+      "likes": 23,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "pSNsYDZdvaQ",
+      "title": "Natasha Howard Drops 19 PTS, 8 REB vs. Fever",
+      "published_at": "2018-08-08T07:38:05Z",
+      "views": 340,
+      "likes": 12,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "6vAXJElDCxY",
+      "title": "Breanna Stewart (32 Points) Leads Storm to Win in New York",
+      "published_at": "2018-08-06T18:18:26Z",
+      "views": 15597,
+      "likes": 212,
+      "comments": 15,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "vj7bVukzo8s",
+      "title": "Jasmine Thomas Scores Career-High 30 Points vs. Aces",
+      "published_at": "2018-08-05T21:25:36Z",
+      "views": 2037,
+      "likes": 64,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "jWFO4MfG-vc",
+      "title": "Candice Dupree Scores 25 Points in Win Over Liberty",
+      "published_at": "2018-08-04T21:38:53Z",
+      "views": 1024,
+      "likes": 41,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FQXgctbw8HM",
+      "title": "Sue Bird Tallies Double-Double (14 PTS, 11 AST) vs. Lynx",
+      "published_at": "2018-08-04T05:10:42Z",
+      "views": 14111,
+      "likes": 231,
+      "comments": 8,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "8KwtB-4vV8A",
+      "title": "Best of Courtney Vandersloot Historic 81 PTS, 57 AST Over 5 Game Stretch",
+      "published_at": "2018-08-04T05:09:46Z",
+      "views": 6062,
+      "likes": 100,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fEYij61IS6E",
+      "title": "Courtney Vandersloot Drops Season-High 24 PTS, 7 AST vs. Dream",
+      "published_at": "2018-08-04T05:09:01Z",
+      "views": 457,
+      "likes": 16,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "7vi53tsGjqM",
+      "title": "Angel McCoughtry and Tiffany Hayes Combine for 40 PTS vs. Sky",
+      "published_at": "2018-08-04T05:08:21Z",
+      "views": 3732,
+      "likes": 55,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fng192iIbOw",
+      "title": "Candace Parker&#39;s Double-Double Lifts Sparks Past Lynx",
+      "published_at": "2018-08-03T06:23:03Z",
+      "views": 24752,
+      "likes": 415,
+      "comments": 31,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "WKC1cyNPf8Y",
+      "title": "Liz Cambage Drops HUGE 37 PTS, 9 REB vs. Fever",
+      "published_at": "2018-08-03T06:22:35Z",
+      "views": 9182,
+      "likes": 104,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "UMWVU1yVjU0",
+      "title": "Cappie Pondexter Scores 18 PTS vs. Wings",
+      "published_at": "2018-08-03T06:22:00Z",
+      "views": 856,
+      "likes": 17,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "b_DY_93l2kI",
+      "title": "Diana Taurasi Drops Season-High 37 PTS, 9 AST vs. Aces",
+      "published_at": "2018-08-02T05:26:50Z",
+      "views": 5966,
+      "likes": 134,
+      "comments": 12,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "rZSr3TnzQic",
+      "title": "Player of the Month Highlights: Tiffany Hayes!",
+      "published_at": "2018-08-02T02:52:45Z",
+      "views": 4412,
+      "likes": 74,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "u7l6QG10qy0",
+      "title": "Player of the Month Highlights: Breanna Stewart",
+      "published_at": "2018-08-02T02:52:41Z",
+      "views": 23642,
+      "likes": 241,
+      "comments": 21,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wPaV683gf1c",
+      "title": "Rookie of the Month Highlights: A&#39;ja Wilson!",
+      "published_at": "2018-08-02T02:52:20Z",
+      "views": 7969,
+      "likes": 127,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "z2ax41T61UA",
+      "title": "Courtney Williams Scores HUGE Stat Line (17 PTS, 8 REB, 6 AST) vs. Liberty",
+      "published_at": "2018-08-02T02:51:48Z",
+      "views": 1476,
+      "likes": 25,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "itEHgX0ls6A",
+      "title": "Jonquel Jones Drops 21 PTS Off The Bench For Sun",
+      "published_at": "2018-08-02T02:50:18Z",
+      "views": 789,
+      "likes": 11,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "07euxWw3CGY",
+      "title": "Best of Courtney Vandersloot&#39;s Historic 50 AST Over Four Games",
+      "published_at": "2018-08-01T06:36:39Z",
+      "views": 1580,
+      "likes": 46,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "w_1uxCuh96c",
+      "title": "Jewell Loyd Goes OFF For 29 PTS In Storm Win",
+      "published_at": "2018-08-01T06:36:03Z",
+      "views": 977,
+      "likes": 28,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DjWF3TRWH7g",
+      "title": "Liz Cambage Scores 33 PTS, 13 REB vs. Sky",
+      "published_at": "2018-08-01T06:35:35Z",
+      "views": 12208,
+      "likes": 163,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0jDBbfWi9hU",
+      "title": "Courtney Vandersloot Notches Monster 14 AST vs. Wings",
+      "published_at": "2018-08-01T06:35:09Z",
+      "views": 516,
+      "likes": 18,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iU0lGaobfuY",
+      "title": "Elena Delle Donne Drops HUGE Double-Double vs. Dream",
+      "published_at": "2018-08-01T06:34:25Z",
+      "views": 3000,
+      "likes": 75,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "SZkr_lT6hrg",
+      "title": "Sue Bird Drops 8 Assists In Record-Setting 11th All-Star Game Appearance",
+      "published_at": "2018-07-29T00:26:52Z",
+      "views": 3590,
+      "likes": 65,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "vNWV0_RBQmI",
+      "title": "All-Star 3-PT Shooting Contestants Highlight Mix",
+      "published_at": "2018-07-27T02:12:59Z",
+      "views": 994,
+      "likes": 25,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "XG51TFb7KV4",
+      "title": "All-Star Captains Mix: EDD &amp; Candace Parker",
+      "published_at": "2018-07-27T02:11:08Z",
+      "views": 1397,
+      "likes": 58,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Ot2hAg27gwk",
+      "title": "Sue Bird&#39;s Career All-Star Highlight Mix",
+      "published_at": "2018-07-27T02:02:50Z",
+      "views": 98268,
+      "likes": 925,
+      "comments": 220,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "nqrnyzgViEQ",
+      "title": "Angel McCoughtry with 19 Points vs.  Los Angeles Sparks",
+      "published_at": "2018-07-25T05:17:08Z",
+      "views": 719,
+      "likes": 19,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "b5FRRMSl5_A",
+      "title": "Tina Charles (35 PTS, 15 REB) and Sylvia Fowles (27 PTS, 11 REB) Duel As Lynx Defeat Liberty",
+      "published_at": "2018-07-25T05:11:35Z",
+      "views": 1730,
+      "likes": 32,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "YyzFOtgnYoA",
+      "title": "Jonquel Jones Drops 23 PTS in Connecticut Win Over Mystics",
+      "published_at": "2018-07-25T05:07:25Z",
+      "views": 267,
+      "likes": 11,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "1FPU1n0m6QA",
+      "title": "Breanna Stewart Scores 26 PTS, 10 REB vs. Fever",
+      "published_at": "2018-07-25T05:06:48Z",
+      "views": 2351,
+      "likes": 42,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_Kbvnd4-kzg",
+      "title": "3-Point Contest Participant: Renee Montgomery",
+      "published_at": "2018-07-24T19:44:33Z",
+      "views": 530,
+      "likes": 20,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fTwNQKoiHsI",
+      "title": "3-Point Contest Participant: Kristi Toliver",
+      "published_at": "2018-07-24T19:39:06Z",
+      "views": 1065,
+      "likes": 23,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "YSZEnybh8dE",
+      "title": "3-Point Contest Participant: Kelsey Mitchell",
+      "published_at": "2018-07-24T19:32:18Z",
+      "views": 495,
+      "likes": 14,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Q2mWFSnr2Js",
+      "title": "3-Point Contest Participant: Jewell Loyd",
+      "published_at": "2018-07-24T19:26:41Z",
+      "views": 697,
+      "likes": 32,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "eiaaS9v4Bp4",
+      "title": "3-Point Contest Participant: Allie Quigley",
+      "published_at": "2018-07-24T19:20:23Z",
+      "views": 1504,
+      "likes": 36,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "nvFvMsiXLlU",
+      "title": "3-Point Contest Participant: Kayla McBride",
+      "published_at": "2018-07-24T19:14:39Z",
+      "views": 1620,
+      "likes": 50,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "k8KFm5roDDI",
+      "title": "Elena Delle Donne Scores 30 Points in Win Over Liberty",
+      "published_at": "2018-07-21T22:31:53Z",
+      "views": 3652,
+      "likes": 98,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "1kvq7zpK2Z4",
+      "title": "Jewell Loyd Records A Season-High 31-Points Against Connecticut!",
+      "published_at": "2018-07-21T21:14:17Z",
+      "views": 1111,
+      "likes": 37,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "HIIHlSJ32EA",
+      "title": "Courtney Vandersloot&#39;s Record 15 Assists Against Dallas",
+      "published_at": "2018-07-21T14:33:41Z",
+      "views": 778,
+      "likes": 38,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9Wv56DK0AIc",
+      "title": "LaToya Sanders Tallies Career-High 25 PTS vs. Wings",
+      "published_at": "2018-07-20T07:09:42Z",
+      "views": 1365,
+      "likes": 32,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9gtKNuTNDBg",
+      "title": "Kristi Toliver Dishes Season-High 9 AST vs. Wings",
+      "published_at": "2018-07-20T07:07:41Z",
+      "views": 476,
+      "likes": 21,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0xVeZcoKWG8",
+      "title": "Renee Montgomery Drops Career-High 7 Three&#39;s vs. Liberty",
+      "published_at": "2018-07-20T07:03:56Z",
+      "views": 1654,
+      "likes": 32,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "17miyTIxJzs",
+      "title": "Kayla McBride Scores 27 Points vs. Phoenix Mercury",
+      "published_at": "2018-07-20T07:03:54Z",
+      "views": 686,
+      "likes": 24,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "gRXr5xMs71c",
+      "title": "Kayla McBride and Diana Taurasi Duel As Aces Narrowly Defeat Mercury",
+      "published_at": "2018-07-20T06:58:36Z",
+      "views": 3577,
+      "likes": 61,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "miJ4FkCDqto",
+      "title": "Team Delle Donne Highlights All-Star Game 2018",
+      "published_at": "2018-07-20T00:15:08Z",
+      "views": 1318,
+      "likes": 40,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "T9thom8eEMc",
+      "title": "Sylvia Fowles Records Season-High 30 Points vs. Fever",
+      "published_at": "2018-07-18T19:53:49Z",
+      "views": 921,
+      "likes": 26,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0OrKAvpMoh8",
+      "title": "Tiffany Hayes Nails GAME-WINNER From Beyond Halfcourt vs. Sun",
+      "published_at": "2018-07-18T02:32:23Z",
+      "views": 5976,
+      "likes": 134,
+      "comments": 23,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "KE5bZ_sjGSM",
+      "title": "Liz Cambage&#39;s 53 Points Sets NEW Record For Points In A Single-Game!",
+      "published_at": "2018-07-17T21:36:41Z",
+      "views": 32448,
+      "likes": 470,
+      "comments": 61,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "YxylchACa9A",
+      "title": "Candace Parker Posts 34 Points, 11 Rebounds, 9 Assists vs. Aces",
+      "published_at": "2018-07-16T02:25:32Z",
+      "views": 7182,
+      "likes": 168,
+      "comments": 19,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "CvIpUyfIlc8",
+      "title": "Brittney Griner Drops Season-High 36 Points vs. Fever",
+      "published_at": "2018-07-16T02:25:05Z",
+      "views": 2086,
+      "likes": 67,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ZNypa2TVfiQ",
+      "title": "Shavonte Zellous Drills Game-Winning Three At The Buzzer!",
+      "published_at": "2018-07-12T00:42:15Z",
+      "views": 2053,
+      "likes": 56,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Gw0cI16gVWM",
+      "title": "Sylvia Fowles scores 20 PTS, 10 REB vs. Fever",
+      "published_at": "2018-07-12T00:38:03Z",
+      "views": 572,
+      "likes": 32,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0SRadn59Ows",
+      "title": "New York Liberty vs. Connecticut Sun Ends in Thrilling Fashion",
+      "published_at": "2018-07-12T00:36:39Z",
+      "views": 1765,
+      "likes": 39,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "bL9ID6C8PfA",
+      "title": "McCoughtry, Breland, Montgomery, and Hayes combine for 89 points vs. Mystics",
+      "published_at": "2018-07-12T00:32:25Z",
+      "views": 689,
+      "likes": 35,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "xys7XWoQNWo",
+      "title": "Sue Bird Milestones To Reach 6,000 Career Points",
+      "published_at": "2018-07-10T16:01:26Z",
+      "views": 3182,
+      "likes": 83,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FEjYdH7wqS8",
+      "title": "Sue Bird Becomes Storm&#39;s All-Time Leading Scorer",
+      "published_at": "2018-07-09T01:22:23Z",
+      "views": 1817,
+      "likes": 75,
+      "comments": 9,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "1e-84SL75cI",
+      "title": "Skylar Diggins-Smith Explodes For 32 Points vs. Liberty",
+      "published_at": "2018-07-08T21:22:41Z",
+      "views": 6009,
+      "likes": 121,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "eKtTwWzTpx4",
+      "title": "Breanna Stewart with 29 Points vs  Atlanta Dream",
+      "published_at": "2018-07-07T22:23:31Z",
+      "views": 1808,
+      "likes": 52,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "CAUcNRDdwu4",
+      "title": "Kayla McBride with 28 Points vs  Chicago Sky",
+      "published_at": "2018-07-07T22:20:55Z",
+      "views": 1485,
+      "likes": 59,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "0s3gbUUzTbI",
+      "title": "Sylvia Fowles with 27 Points vs  Los Angeles Sparks",
+      "published_at": "2018-07-07T22:16:20Z",
+      "views": 755,
+      "likes": 24,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "xtINa0s2jEA",
+      "title": "Azur\u00e1 Stevens with 26 Points vs  Indiana Fever",
+      "published_at": "2018-07-07T22:15:55Z",
+      "views": 1546,
+      "likes": 34,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "aGUJWhEJoPI",
+      "title": "Elena Delle Donne with 21 Points vs.  New York Liberty",
+      "published_at": "2018-07-07T22:15:55Z",
+      "views": 1397,
+      "likes": 44,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "aQEOJfMOfps",
+      "title": "Diana Taurasi Scores 25 Points in Win Over Sun",
+      "published_at": "2018-07-06T16:08:16Z",
+      "views": 3306,
+      "likes": 74,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "AadKyCiHD6k",
+      "title": "Top 5 Plays from June",
+      "published_at": "2018-07-03T16:58:21Z",
+      "views": 1289,
+      "likes": 51,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iE154aXlx-w",
+      "title": "Nneka Ogwumike (20 PTS, 11 REB) Leads Sparks to Victory",
+      "published_at": "2018-06-18T02:46:38Z",
+      "views": 2197,
+      "likes": 66,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "aqfq6ZRB_Po",
+      "title": "Top Plays From Phoenix Mercury&#39;s 7-Game Win Streak",
+      "published_at": "2018-06-17T05:24:38Z",
+      "views": 2133,
+      "likes": 69,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iuf-ze0DrgE",
+      "title": "Watch Me Work 3.0 \u2013 Elizabeth Williams",
+      "published_at": "2018-06-13T15:10:22Z",
+      "views": 1160,
+      "likes": 34,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "AwJWv0EjyBI",
+      "title": "Watch Me Work 3.0 \u2013 Elizabeth Williams",
+      "published_at": "2018-06-13T15:10:08Z",
+      "views": 347,
+      "likes": 12,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "T7jfsFqn5a4",
+      "title": "Watch Me Work 3.0 \u2013 Elizabeth Williams",
+      "published_at": "2018-06-13T15:10:04Z",
+      "views": 623,
+      "likes": 16,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "79olQTK7Mb4",
+      "title": "Watch Me Work 3.0 \u2013 Elizabeth Williams",
+      "published_at": "2018-06-13T15:09:54Z",
+      "views": 240,
+      "likes": 11,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "xVHUrwqScYw",
+      "title": "Watch me Work 3.0 \u2013 Candice Dupree",
+      "published_at": "2018-06-13T15:00:51Z",
+      "views": 901,
+      "likes": 25,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "61fvzCl8_YI",
+      "title": "Watch me Work 3.0 \u2013 Candice Dupree",
+      "published_at": "2018-06-13T15:00:36Z",
+      "views": 544,
+      "likes": 12,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "12WuRlhLR98",
+      "title": "Watch me Work 3.0 \u2013 Candice Dupree",
+      "published_at": "2018-06-13T15:00:03Z",
+      "views": 1138,
+      "likes": 35,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "uYUNoxot194",
+      "title": "Watch Me Work 3.0 \u2013 Sylvia Fowles",
+      "published_at": "2018-06-12T18:16:20Z",
+      "views": 1890,
+      "likes": 53,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wUaFBvts6IA",
+      "title": "Watch Me Work 3.0 \u2013 Sylvia Fowles",
+      "published_at": "2018-06-12T18:15:59Z",
+      "views": 400,
+      "likes": 26,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "lq1BFaEshho",
+      "title": "Watch Me Work 3.0 \u2013 Sylvia Fowles",
+      "published_at": "2018-06-12T18:15:38Z",
+      "views": 611,
+      "likes": 24,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "QXLbwP-07Co",
+      "title": "Watch Me Work 3.0 \u2013 Sylvia Fowles",
+      "published_at": "2018-06-12T18:14:34Z",
+      "views": 824,
+      "likes": 22,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "zg4cilSsDcA",
+      "title": "Brittney Griner Blocks 7 Shots, Adds 19 Points &amp; 15 Boards vs. Aces",
+      "published_at": "2018-06-11T01:16:29Z",
+      "views": 3910,
+      "likes": 92,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ZGz2xywERhg",
+      "title": "Sugar Rodgers Catches Fire With 5 Three-Pointers vs. Fever",
+      "published_at": "2018-06-10T21:34:01Z",
+      "views": 1334,
+      "likes": 42,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "xP-AY1Dch3g",
+      "title": "Breanna Stewart Talks Mother&#39;s Graduation On ESPN2",
+      "published_at": "2018-06-08T15:29:55Z",
+      "views": 1130,
+      "likes": 32,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "l1IvNZ0yS-g",
+      "title": "Best of Connecticut Sun&#39;s 5-0 Start",
+      "published_at": "2018-06-06T14:03:23Z",
+      "views": 789,
+      "likes": 39,
+      "comments": 3,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "OmGde9WmHs8",
+      "title": "Top 3 Plays From This Week (June 5)",
+      "published_at": "2018-06-05T17:48:58Z",
+      "views": 1514,
+      "likes": 51,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iu0w9v-dJtY",
+      "title": "A&#39;ja Wilson Scores 26 Points &amp; 12 Rebounds As Aces Secure First Franchise Win",
+      "published_at": "2018-06-02T05:12:03Z",
+      "views": 13206,
+      "likes": 231,
+      "comments": 26,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9hsBlC1cXxo",
+      "title": "Diana Taurasi Scores Season-High 29 In Win Over Lynx",
+      "published_at": "2018-06-02T02:54:57Z",
+      "views": 10778,
+      "likes": 173,
+      "comments": 16,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "f3KMWbyYN-0",
+      "title": "Kristi Toliver Drops Season-High 30 Points vs. Mercury",
+      "published_at": "2018-05-31T04:37:33Z",
+      "views": 3671,
+      "likes": 104,
+      "comments": 11,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "3qQ37iXfLFE",
+      "title": "Tina Charles Erupts With 34 Points and 10 Rebounds In Liberty Thriller",
+      "published_at": "2018-05-30T03:01:54Z",
+      "views": 3137,
+      "likes": 72,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "3qQ37iXfLFE",
+      "title": "Tina Charles Erupts With 34 Points and 10 Rebounds In Liberty Thriller",
+      "published_at": "2018-05-30T03:01:54Z",
+      "views": 3137,
+      "likes": 72,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FADRwaCDkqo",
+      "title": "Alyssa Thomas Scores Game-High 21 Points vs. Fever",
+      "published_at": "2018-05-27T02:32:01Z",
+      "views": 1966,
+      "likes": 61,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "FADRwaCDkqo",
+      "title": "Alyssa Thomas Scores Game-High 21 Points vs. Fever",
+      "published_at": "2018-05-27T02:32:01Z",
+      "views": 1966,
+      "likes": 61,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "POqmPSGfcnw",
+      "title": "Nneka (19 PTS) and Chiney Ogwumike (18 PTS) Duel in Connecticut",
+      "published_at": "2018-05-25T03:21:17Z",
+      "views": 11998,
+      "likes": 179,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "POqmPSGfcnw",
+      "title": "Nneka (19 PTS) and Chiney Ogwumike (18 PTS) Duel in Connecticut",
+      "published_at": "2018-05-25T03:21:17Z",
+      "views": 11998,
+      "likes": 179,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "h7AToy-8mNU",
+      "title": "Sylvia Fowles (23 PTS, 20 REB, 5 STL) Makes History vs. Wings",
+      "published_at": "2018-05-24T07:14:43Z",
+      "views": 2938,
+      "likes": 91,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "h7AToy-8mNU",
+      "title": "Sylvia Fowles (23 PTS, 20 REB, 5 STL) Makes History vs. Wings",
+      "published_at": "2018-05-24T07:14:43Z",
+      "views": 2938,
+      "likes": 91,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DIQv5knztD8",
+      "title": "Elena Delle Donne Drops 23 Points in Win Over Aces",
+      "published_at": "2018-05-23T03:19:12Z",
+      "views": 6910,
+      "likes": 151,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DIQv5knztD8",
+      "title": "Elena Delle Donne Drops 23 Points in Win Over Aces",
+      "published_at": "2018-05-23T03:19:12Z",
+      "views": 6910,
+      "likes": 151,
+      "comments": 10,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "cFc4G25PRcQ",
+      "title": "Fantastic Finish: Sparks and Lynx Go Head-To-Head In 2018 Opener!",
+      "published_at": "2018-05-20T23:22:10Z",
+      "views": 13269,
+      "likes": 215,
+      "comments": 18,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "cFc4G25PRcQ",
+      "title": "Fantastic Finish: Sparks and Lynx Go Head-To-Head In 2018 Opener!",
+      "published_at": "2018-05-20T23:22:10Z",
+      "views": 13269,
+      "likes": 215,
+      "comments": 18,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "I-U5SMZlqJ0",
+      "title": "Watch Chelsea Gray Beat The Buzzer To Open 2018 Season For The Sparks!",
+      "published_at": "2018-05-20T23:13:13Z",
+      "views": 4259,
+      "likes": 104,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "I-U5SMZlqJ0",
+      "title": "Watch Chelsea Gray Beat The Buzzer To Open 2018 Season For The Sparks!",
+      "published_at": "2018-05-20T23:13:13Z",
+      "views": 4259,
+      "likes": 104,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "GoSN2ByQRTg",
+      "title": "Elena Delle Donne Dishes A Career-High 7 Assists To Go Along With 13 Points In 2018 Opener!",
+      "published_at": "2018-05-20T22:33:58Z",
+      "views": 3731,
+      "likes": 85,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "GoSN2ByQRTg",
+      "title": "Elena Delle Donne Dishes A Career-High 7 Assists To Go Along With 13 Points In 2018 Opener!",
+      "published_at": "2018-05-20T22:33:58Z",
+      "views": 3731,
+      "likes": 85,
+      "comments": 6,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "VDij7x9QIdw",
+      "title": "Skylar Diggins-Smith Goes For 25 points To Open The 2018 Season!",
+      "published_at": "2018-05-20T22:27:24Z",
+      "views": 19499,
+      "likes": 318,
+      "comments": 31,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "VDij7x9QIdw",
+      "title": "Skylar Diggins-Smith Goes For 25 points To Open The 2018 Season!",
+      "published_at": "2018-05-20T22:27:24Z",
+      "views": 19499,
+      "likes": 318,
+      "comments": 31,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "u6gVFBes7kk",
+      "title": "Diana Taurasi Drops 26, Surpasses 1,000 Career 3s in Season-Opening Win",
+      "published_at": "2018-05-19T06:18:46Z",
+      "views": 6456,
+      "likes": 153,
+      "comments": 17,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "u6gVFBes7kk",
+      "title": "Diana Taurasi Drops 26, Surpasses 1,000 Career 3s in Season-Opening Win",
+      "published_at": "2018-05-19T06:18:46Z",
+      "views": 6456,
+      "likes": 153,
+      "comments": 17,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "szpzRUn1AOA",
+      "title": "Recap: USAB Training Camp &amp; Exhibition in Seattle",
+      "published_at": "2018-05-17T20:47:13Z",
+      "views": 1044,
+      "likes": 34,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "szpzRUn1AOA",
+      "title": "Recap: USAB Training Camp &amp; Exhibition in Seattle",
+      "published_at": "2018-05-17T20:47:13Z",
+      "views": 1044,
+      "likes": 34,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "k1mfK7spK2I",
+      "title": "Skylar Diggins-Smith Puts in Work in Offseason",
+      "published_at": "2018-05-17T20:39:49Z",
+      "views": 9250,
+      "likes": 164,
+      "comments": 13,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "k1mfK7spK2I",
+      "title": "Skylar Diggins-Smith Puts in Work in Offseason",
+      "published_at": "2018-05-17T20:39:49Z",
+      "views": 9250,
+      "likes": 164,
+      "comments": 13,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "DarEG-A2UTQ",
+      "title": "Brittney Griner Throws Down Dunk in Preseason Action",
+      "published_at": "2018-05-13T04:57:46Z",
+      "views": 8062,
+      "likes": 141,
+      "comments": 14,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Yitge-Yiv14",
+      "title": "Maya Moore, Sylvia Fowles Combine For 32 Points vs. Sky",
+      "published_at": "2018-05-13T04:57:32Z",
+      "views": 4050,
+      "likes": 82,
+      "comments": 23,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Yitge-Yiv14",
+      "title": "Maya Moore, Sylvia Fowles Combine For 32 Points vs. Sky",
+      "published_at": "2018-05-13T04:57:32Z",
+      "views": 4050,
+      "likes": 82,
+      "comments": 23,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "jvZ5qHgnXPM",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:45Z",
+      "views": 1710,
+      "likes": 39,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "jvZ5qHgnXPM",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:45Z",
+      "views": 1710,
+      "likes": 39,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "UHdV-MIPfKI",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:24Z",
+      "views": 719,
+      "likes": 20,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "UHdV-MIPfKI",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:24Z",
+      "views": 719,
+      "likes": 20,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iXteCuvBGPg",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:05Z",
+      "views": 7431,
+      "likes": 143,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "iXteCuvBGPg",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:01:05Z",
+      "views": 7431,
+      "likes": 143,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Z-ShoxPbu2U",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:00:10Z",
+      "views": 626,
+      "likes": 17,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Z-ShoxPbu2U",
+      "title": "Watch Me Work 3.0 \u2013 Stefanie Dolson",
+      "published_at": "2018-05-11T14:00:10Z",
+      "views": 626,
+      "likes": 17,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "B7Fa22lSA6c",
+      "title": "Breanna Stewart, Jewell Loyd Score 15 Apiece vs. Mercury",
+      "published_at": "2018-05-09T00:10:19Z",
+      "views": 3478,
+      "likes": 79,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "B7Fa22lSA6c",
+      "title": "Breanna Stewart, Jewell Loyd Score 15 Apiece vs. Mercury",
+      "published_at": "2018-05-09T00:10:19Z",
+      "views": 3478,
+      "likes": 79,
+      "comments": 2,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "eLomKI5uLDo",
+      "title": "Azura Stevens Scores 19 Points in Preseason Debut",
+      "published_at": "2018-05-08T01:20:30Z",
+      "views": 8502,
+      "likes": 170,
+      "comments": 16,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wW7SQBk9fDU",
+      "title": "Minnesota&#39;s Lindsay Whalen &amp; Jeff Teague Break Down Point Guard Play",
+      "published_at": "2018-05-04T15:04:18Z",
+      "views": 8011,
+      "likes": 147,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "5XZNa01CWQ8",
+      "title": "No. 1 Pick A&#39;ja Wilson Receives Surprise Congratulations From Blake Griffin",
+      "published_at": "2018-04-13T20:36:34Z",
+      "views": 17503,
+      "likes": 365,
+      "comments": 23,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "oLvIn8EvhiQ",
+      "title": "Watch Me Work 3.0 \u2013 Skylar Diggins-Smith (TRT- 0:30)",
+      "published_at": "2018-04-11T16:03:23Z",
+      "views": 2201,
+      "likes": 48,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "SwsFoY3WlEc",
+      "title": "Watch Me Work 3.0 \u2013 Skylar Diggins-Smith (TRT- 0:06)",
+      "published_at": "2018-04-11T16:03:04Z",
+      "views": 967,
+      "likes": 20,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "bqMKqrYC8Mg",
+      "title": "Watch Me Work 3.0 \u2013 Skylar Diggins-Smith (TRT- 0:15)",
+      "published_at": "2018-04-11T16:02:43Z",
+      "views": 992,
+      "likes": 28,
+      "comments": 0,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "9tpy5kStVcM",
+      "title": "Watch Me Work 3.0 \u2013 Skylar Diggins-Smith",
+      "published_at": "2018-04-11T15:33:55Z",
+      "views": 10805,
+      "likes": 215,
+      "comments": 17,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "6Mt6kDi9EOI",
+      "title": "Connecticut Sun: Best Plays of the 2017 Season",
+      "published_at": "2018-04-07T12:49:48Z",
+      "views": 2127,
+      "likes": 47,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "_VB-2Lnfp8k",
+      "title": "New York Liberty: Best of 2017 Season",
+      "published_at": "2018-04-07T12:49:33Z",
+      "views": 2293,
+      "likes": 41,
+      "comments": 1,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "wiLMpBxVX_s",
+      "title": "USA Basketball Camp: Behind the Scenes at Practice",
+      "published_at": "2018-02-14T22:27:25Z",
+      "views": 18467,
+      "likes": 289,
+      "comments": 18,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ij3nCu3NuGo",
+      "title": "Behind the Scenes: Sylvia Fowles vs. Breanna Stewart in China",
+      "published_at": "2018-01-29T17:16:44Z",
+      "views": 9420,
+      "likes": 140,
+      "comments": 7,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "ZmovpA4VfdY",
+      "title": "24 Seconds With Natalie Achonwa",
+      "published_at": "2018-01-22T19:59:20Z",
+      "views": 2080,
+      "likes": 53,
+      "comments": 5,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "-AhwGq_XMww",
+      "title": "24 Seconds With Allisha Gray",
+      "published_at": "2018-01-22T19:58:43Z",
+      "views": 4548,
+      "likes": 96,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "fMmPNlF5FiA",
+      "title": "PostUp: Imani McGee-Stafford",
+      "published_at": "2018-01-16T21:14:39Z",
+      "views": 1138,
+      "likes": 16,
+      "comments": 4,
+      "year": 2018,
+      "league": "WNBA"
+    },
+    {
+      "video_id": "Cg4ig4YSDSw",
+      "title": "PostUp: Skylar Diggins-Smith",
+      "published_at": "2018-01-16T21:09:09Z",
+      "views": 2598,
+      "likes": 61,
+      "comments": 15,
+      "year": 2018,
+      "league": "WNBA"
+    }
+  ]
+}

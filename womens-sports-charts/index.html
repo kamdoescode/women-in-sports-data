@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; }
+    .line { fill: none; stroke-width: 2.5; }
+    .axis text { fill: #aaa; }
+    .axis path, .axis line { stroke: #444; }
+    .tooltip { position: absolute; background: #222; border: 1px solid #555;
+               padding: 8px 12px; border-radius: 6px; font-size: 12px; pointer-events: none; }
+  </style>
+</head>
+<body>
+<div id="chart"></div>
+<div class="tooltip" id="tooltip" style="opacity:0"></div>
+<script>
+// data from youtube_data/ecosystem_summary_2025-10-01.csv
+const data = [
+  { league: "WNBA", year: 2018, avg_views: 109665 },
+  { league: "WNBA", year: 2019, avg_views: 5730456 },
+  { league: "WNBA", year: 2020, avg_views: 120093 },
+  { league: "WNBA", year: 2021, avg_views: 1048554 },
+  { league: "WNBA", year: 2022, avg_views: 965184 },
+  { league: "WNBA", year: 2023, avg_views: 7941232 },
+  { league: "WNBA", year: 2024, avg_views: 7568141 },
+  { league: "WNBA", year: 2025, avg_views: 3107791 },
+  { league: "PWHL", year: 2018, avg_views: 606764 },
+  { league: "PWHL", year: 2019, avg_views: 480318 },
+  { league: "PWHL", year: 2020, avg_views: 96640 },
+  { league: "PWHL", year: 2021, avg_views: 214631 },
+  { league: "PWHL", year: 2022, avg_views: 2473809 },
+  { league: "PWHL", year: 2023, avg_views: 2356795 },
+  { league: "PWHL", year: 2024, avg_views: 330171 },
+  { league: "PWHL", year: 2025, avg_views: 942299 },
+  { league: "Barclays WSL", year: 2018, avg_views: 1197429 },
+  { league: "Barclays WSL", year: 2019, avg_views: 3481287 },
+  { league: "Barclays WSL", year: 2020, avg_views: 1132367 },
+  { league: "Barclays WSL", year: 2021, avg_views: 7025864 },
+  { league: "Barclays WSL", year: 2022, avg_views: 6347082 },
+  { league: "Barclays WSL", year: 2023, avg_views: 12763657 },
+  { league: "Barclays WSL", year: 2024, avg_views: 6121515 },
+  { league: "Barclays WSL", year: 2025, avg_views: 9911533 },
+];
+
+const margin = { top: 30, right: 150, bottom: 50, left: 70 };
+const width  = 800 - margin.left - margin.right;
+const height = 450 - margin.top  - margin.bottom;
+
+const svg = d3.select("#chart").append("svg")
+  .attr("width",  width  + margin.left + margin.right)
+  .attr("height", height + margin.top  + margin.bottom)
+  .append("g")
+  .attr("transform", `translate(${margin.left},${margin.top})`);
+
+const leagues = [...new Set(data.map(d => d.league))];
+const color   = d3.scaleOrdinal()
+  .domain(leagues)
+  .range(["#FF6B35","#4ECDC4","#A8DADC","#E63946"]);
+
+const x = d3.scaleLinear()
+  .domain(d3.extent(data, d => d.year))
+  .range([0, width]);
+
+const y = d3.scaleLinear()
+  .domain([0, d3.max(data, d => d.avg_views) * 1.1])
+  .range([height, 0]);
+
+svg.append("g").attr("class","axis")
+  .attr("transform", `translate(0,${height})`).call(d3.axisBottom(x).tickFormat(d3.format("d")));
+svg.append("g").attr("class","axis")
+  .call(d3.axisLeft(y).tickFormat(d => d >= 1e6 ? d/1e6+"M" : d >= 1e3 ? d/1e3+"K" : d));
+
+const line = d3.line().x(d => x(d.year)).y(d => y(d.avg_views));
+const tooltip = d3.select("#tooltip");
+
+leagues.forEach(league => {
+  const leagueData = data.filter(d => d.league === league).sort((a,b) => a.year - b.year);
+
+  svg.append("path")
+    .datum(leagueData)
+    .attr("class","line")
+    .attr("stroke", color(league))
+    .attr("d", line);
+
+  svg.selectAll(`.dot-${league.replace(/\s/g,"_")}`)
+    .data(leagueData).enter().append("circle")
+    .attr("cx", d => x(d.year)).attr("cy", d => y(d.avg_views))
+    .attr("r", 4).attr("fill", color(league))
+    .on("mouseover", (event, d) => {
+      tooltip.style("opacity", 1)
+        .html(`<strong>${d.league}</strong><br>${d.year}<br>Avg views: ${d.avg_views.toLocaleString()}`)
+        .style("left", (event.pageX + 12) + "px")
+        .style("top",  (event.pageY - 28) + "px");
+    })
+    .on("mouseout", () => tooltip.style("opacity", 0));
+
+  // League label at end of line
+  const last = leagueData[leagueData.length - 1];
+  svg.append("text")
+    .attr("x", x(last.year) + 8).attr("y", y(last.avg_views))
+    .attr("fill", color(league)).attr("font-size", 11)
+    .attr("dominant-baseline","middle").text(league);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Women in Sports: The World Is Watching</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="progress-bar"></div>
+<div class="tooltip" id="tooltip"></div>
+
+<nav>
+  <span class="logo">Women in Sports</span>
+  <ul class="nav-links">
+    <li><a href="#demand">Demand</a></li>
+    <li><a href="#broadcast">Broadcast</a></li>
+    <li><a href="#about">About</a></li>
+  </ul>
+</nav>
+
+<!-- ════════════════════════════════════════════════════
+     LANDING
+════════════════════════════════════════════════════ -->
+<section id="landing">
+
+  <p class="landing-eyebrow">A data story by kamryn hanley</p>
+
+  <h1 class="landing-title">
+    Women in Sports:<br>
+    <em>The World<br>Is Watching</em>
+  </h1>
+
+  <p class="landing-subtitle">
+    From a handful of YouTube views to billions of minutes of broadcast time,
+    a decade of data reveals an audience that was always there,
+    finally being counted.
+  </p>
+
+  <div class="landing-credits">
+    <div class="credit-item">
+      <span class="credit-label">Data Sources</span>
+      <span class="credit-value">YouTube Data API v3 · Women's Sport Trust · Nielsen</span>
+    </div>
+    <div class="credit-item">
+      <span class="credit-label">Leagues Tracked</span>
+      <span class="credit-value">WNBA · PWHL · Barclays WSL</span>
+    </div>
+    <div class="credit-item">
+      <span class="credit-label">Period</span>
+      <span class="credit-value">2018 – 2025</span>
+    </div>
+  </div>
+
+  <div class="scroll-cue">
+    <span>Scroll to explore</span>
+    <div class="scroll-line"></div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════
+     SECTION 1 — YOUTUBE DEMAND
+════════════════════════════════════════════════════ -->
+<section id="demand" class="scroll-section">
+
+  <!-- sticky text left -->
+  <div class="sticky-text">
+    <p class="section-number">01 — Demand</p>
+    <h2>The audience<br><em>found them</em><br>first.</h2>
+    <p>
+      Before broadcasters caught up, fans were already watching.
+      YouTube search data across three major women's leagues
+      tells the story of an organic surge in demand.
+      Measured not in what leagues posted, but in what the
+      entire internet watched.
+    </p>
+    <p>
+      Each data point represents the average views of the
+      35 most-watched videos for that league in that year,
+      sourced from across all of YouTube.
+    </p>
+    <div class="stat-callout">
+      <div class="big-number" id="counter-views">—</div>
+      <div class="big-label">Avg views per top WNBA video, 2025 vs 2018</div>
+    </div>
+  </div>
+
+  <!-- scrollable right: line chart + step cards -->
+  <div class="chart-panel" id="demand-panel">
+    <div class="chart-wrap">
+      <p class="chart-title">Average views per top-35 video · by league · 2018–2025</p>
+      <div class="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:var(--wnba)"></div>WNBA</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--pwhl)"></div>PWHL</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--wsl)"></div>Barclays WSL</div>
+      </div>
+      <div id="line-chart"></div>
+    </div>
+
+    <!-- step cards that animate in -->
+    <div class="step-cards" id="step-cards">
+      <div class="step-card" data-year="2019">
+        <div class="step-card-headline">The Women's World Cup effect</div>
+        <p>France 2019 drove a record spike in women's football viewership globally, pulling WSL search traffic up with it, even in the off-season.</p>
+      </div>
+      <div class="step-card" data-year="2021–22">
+        <div class="step-card-headline">Pandemic rebound + streaming shift</div>
+        <p>As live sport returned post-lockdown, audiences used to watching on screens didn't go back to TV-only habits. YouTube views for all three leagues accelerated.</p>
+      </div>
+      <div class="step-card" data-year="2023">
+        <div class="step-card-headline">PWHL launches</div>
+        <p>The Professional Women's Hockey League launched in January 2024 and immediately generated YouTube traffic that took the WNBA years to build.</p>
+      </div>
+      <div class="step-card" data-year="2024">
+        <div class="step-card-headline">Caitlin Clark changes everything</div>
+        <p>The WNBA's 2024 draft class (led by Caitlin Clark) drove the league's highest-ever YouTube engagement, with individual highlight videos crossing 2M views.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ════════════════════════════════════════════════════
+     SECTION 2 — BROADCAST TIME
+════════════════════════════════════════════════════ -->
+<section id="broadcast">
+  <div class="broadcast-header">
+    <p class="section-number">02 — Broadcast Time</p>
+    <h2>On screen, the gap<br>remains <em>stark.</em></h2>
+    <p>
+      Despite the growth in digital audiences, traditional broadcast
+      coverage of women's sport has barely shifted in three decades.
+      In 2019, women's sport received just 5.4% of US sports TV airtime —
+      almost identical to the 5% recorded in 1989.
+      The numbers below show what share of total broadcast sports coverage
+      went to women, by country and network type.
+    </p>
+  </div>
+
+  <!-- Animated split bars -->
+  <div class="split-viz" id="split-viz">
+    <p class="chart-title" style="margin-bottom:32px">Women's sport as % of total sports broadcast airtime</p>
+
+    <div class="split-row" data-pct="5.4">
+      <span class="split-label">US Sports TV<br><small style="color:var(--muted);font-size:10px">2019 avg</small></span>
+      <div class="split-bar-track">
+        <div class="split-bar-women" data-pct="5.4%"></div>
+      </div>
+      <span class="split-pct">5.4%</span>
+    </div>
+
+    <div class="split-row" data-pct="8.7" style="transition-delay:0.1s">
+      <span class="split-label">UK Free-to-Air<br><small style="color:var(--muted);font-size:10px">2023</small></span>
+      <div class="split-bar-track">
+        <div class="split-bar-women" data-pct="8.7%"></div>
+      </div>
+      <span class="split-pct">8.7%</span>
+    </div>
+
+    <div class="split-row" data-pct="15" style="transition-delay:0.2s">
+      <span class="split-label">UK Pay TV<br><small style="color:var(--muted);font-size:10px">2023</small></span>
+      <div class="split-bar-track">
+        <div class="split-bar-women" data-pct="15%"></div>
+      </div>
+      <span class="split-pct">15%</span>
+    </div>
+
+    <div class="split-row" data-pct="50" style="transition-delay:0.3s">
+      <span class="split-label">Olympics<br><small style="color:var(--muted);font-size:10px">Prime time, US</small></span>
+      <div class="split-bar-track">
+        <div class="split-bar-women" data-pct="~50%"></div>
+      </div>
+      <span class="split-pct">~50%</span>
+    </div>
+
+    <div class="split-row" data-pct="4" style="transition-delay:0.4s">
+      <span class="split-label">Sports News<br><small style="color:var(--muted);font-size:10px">US, studio shows</small></span>
+      <div class="split-bar-track">
+        <div class="split-bar-women" data-pct="4%"></div>
+      </div>
+      <span class="split-pct">4%</span>
+    </div>
+
+    <p style="margin-top:24px; font-family:'DM Mono',monospace; font-size:10px; color:var(--muted); letter-spacing:0.1em;">
+      Sources: USC/Purdue longitudinal study · Women's Sport Trust Visibility Report · Nielsen Sports
+    </p>
+  </div>
+
+
+</section>
+
+<!-- ════════════════════════════════════════════════════
+     FOOTER / ABOUT
+════════════════════════════════════════════════════ -->
+<footer id="about">
+  <div>
+    <h3>About this project</h3>
+    <p>
+      This visual essay was built to track the growth in women's sports
+      viewership and media visibility using publicly available data from
+      the YouTube Data API v3, the Women's Sport Trust annual Visibility
+      Reports, and published Nielsen Sports research.
+    </p>
+    <p style="margin-top:12px">
+      YouTube ecosystem data was collected by searching for the top 35
+      most-viewed videos per league per year across the entire platform —
+      capturing fan uploads, broadcaster clips, and viral moments,
+      not just official league channels.
+    </p>
+  </div>
+  <div>
+    <h3>Data sources</h3>
+    <ul>
+      <li>YouTube Data API v3 (Google)</li>
+      <li>Women's Sport Trust Visibility Reports 2019–2024</li>
+      <li>USC/Purdue 30-Year Longitudinal Study — <em>Communication & Sport</em></li>
+      <li>Nielsen Sports Media Report</li>
+      <li>BARB (UK Broadcasters' Audience Research Board)</li>
+    </ul>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
