@@ -1,7 +1,7 @@
 # Women in Sports Data Visualisation 
----
+
 This is a data visualisation project that focuses on comparing demand vs supply of womens sports in broadcasting using data from YouTube through their API v3. 
---- 
+
 
 ## How To Run
 Download the project folder `womens-sports-tracker` and open in your code editor. Open the folder `data-vis-website` and open up `index.html` in your browser to view. No dependancies required.
